@@ -9,7 +9,8 @@ weather-data-pipeline/
 ├── weather_data_pipeline.py  # Main Python script
 ├── weather_data.csv          # Input data file
 ├── outputs/                  # Output directory (created by script)
-│   ├── transformed_weather_data.csv   # Cleaned and transformed data
+│   ├── transformed_weather_data.csv     # Cleaned and transformed data
+|   ├── transformed_weather_data.xlsx    # Cleaned and transformed data in excel workbook format for better visual  
 │   ├── top_cities_temperature_report.md  # Report on top 5 cities by temperature
 │   └── city_temperature_chart.png     # Visualization of average temperatures
 └── README.md                 # This file
