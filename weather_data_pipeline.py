@@ -3,7 +3,7 @@
 Weather Data Processing Pipeline
 
 This script processes weather data from a CSV file, cleans and transforms it,
-and saves the results to output files.
+and saves the results to output files. Something to look at closely here is the filepath depends on the person who executes this python code.
 """
 
 import os
