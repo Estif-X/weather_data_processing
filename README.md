@@ -91,3 +91,7 @@ The Markdown report lists the top 5 cities by average temperature in descending 
 ### Visualization
 
 The bar chart provides a visual representation of average temperatures across cities, making it easy to compare temperature patterns.
+
+### Project Owner
+
+Hello there, my name is Estifanos Alamirew and I just wanted to say thanks for reviewing my data analysis work. 
