@@ -5,7 +5,7 @@ This project implements a data processing pipeline for weather data. The pipelin
 ## Project Structure
 
 ```
-weather-data-pipeline/
+weather-data-processing/
 ├── weather_data_pipeline.py  # Main Python script
 ├── weather_data.csv          # Input data file
 ├── outputs/                  # Output directory (created by script)
